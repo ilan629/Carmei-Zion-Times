@@ -1,0 +1,150 @@
+{
+  "shul": "Carmei Zion",
+  "test": true,
+  "note": "TEST DATA for checking the setup - NOT this week's real times",
+  "parasha": "שבת פרשת שופטים (TEST)",
+  "erev_date": "2026-10-09",
+  "shabbat_date": "2026-10-10",
+  "candle_lighting": "19:05",
+  "havdala": "20:03",
+  "shabbat": [
+    {
+      "key": "mincha_kabbalat_shabbat_early",
+      "name": "Mincha & Kabbalat Shabbat (early)",
+      "day": "friday",
+      "time": "17:47"
+    },
+    {
+      "key": "plag_hamincha",
+      "name": "Plag HaMincha",
+      "day": "friday",
+      "time": "18:02"
+    },
+    {
+      "key": "mincha_kabbalat_shabbat",
+      "name": "Mincha & Kabbalat Shabbat",
+      "day": "friday",
+      "time": "19:10"
+    },
+    {
+      "key": "shkia",
+      "name": "Shkia",
+      "day": "friday",
+      "time": "19:25"
+    },
+    {
+      "key": "shacharit_1",
+      "name": "Shacharit A",
+      "day": "saturday",
+      "time": "07:00"
+    },
+    {
+      "key": "shacharit_2",
+      "name": "Shacharit B",
+      "day": "saturday",
+      "time": "08:15"
+    },
+    {
+      "key": "shacharit_3",
+      "name": "Shacharit C",
+      "day": "saturday",
+      "time": "09:15"
+    },
+    {
+      "key": "sof_zman_shma",
+      "name": "Sof Zman Kriat Shma",
+      "day": "saturday",
+      "time": "09:25"
+    },
+    {
+      "key": "kids_learning_1",
+      "name": "Kids Learning 1",
+      "day": "saturday",
+      "time": "16:45"
+    },
+    {
+      "key": "kids_learning_2",
+      "name": "Kids Learning 2",
+      "day": "saturday",
+      "time": "17:15"
+    },
+    {
+      "key": "mincha_shabbat",
+      "name": "Shabbat Mincha",
+      "day": "saturday",
+      "time": "18:00"
+    },
+    {
+      "key": "maariv_motzei_shabbat",
+      "name": "Maariv",
+      "day": "saturday",
+      "time": "20:03"
+    }
+  ],
+  "weekdays": [
+    {
+      "key": "shacharit_1",
+      "name": "Shacharit A",
+      "days": [
+        "Sunday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "time": "06:20"
+    },
+    {
+      "key": "shacharit_1",
+      "name": "Shacharit A",
+      "days": [
+        "Monday",
+        "Thursday"
+      ],
+      "time": "06:15"
+    },
+    {
+      "key": "shacharit_1",
+      "name": "Shacharit A",
+      "days": [
+        "Friday"
+      ],
+      "time": "06:30"
+    },
+    {
+      "key": "shacharit_2",
+      "name": "Shacharit B",
+      "days": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "time": "08:15"
+    },
+    {
+      "key": "mincha",
+      "name": "Mincha",
+      "days": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "time": "13:30"
+    },
+    {
+      "key": "maariv",
+      "name": "Maariv",
+      "days": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "time": "20:15"
+    }
+  ]
+}
