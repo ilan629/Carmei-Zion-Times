@@ -1,36 +1,22 @@
 {
   "shul": "Carmei Zion",
-  "test": true,
-  "note": "TEST DATA for checking the setup - NOT this week's real times",
-  "parasha": "שבת פרשת שופטים (TEST)",
+  "parasha": "שבת פרשת בראשית",
   "erev_date": "2026-10-09",
   "shabbat_date": "2026-10-10",
-  "candle_lighting": "19:05",
-  "havdala": "20:03",
+  "candle_lighting": "17:56",
+  "havdala": "18:52",
   "shabbat": [
-    {
-      "key": "mincha_kabbalat_shabbat_early",
-      "name": "Mincha & Kabbalat Shabbat (early)",
-      "day": "friday",
-      "time": "17:47"
-    },
-    {
-      "key": "plag_hamincha",
-      "name": "Plag HaMincha",
-      "day": "friday",
-      "time": "18:02"
-    },
     {
       "key": "mincha_kabbalat_shabbat",
       "name": "Mincha & Kabbalat Shabbat",
       "day": "friday",
-      "time": "19:10"
+      "time": "18:01"
     },
     {
       "key": "shkia",
       "name": "Shkia",
       "day": "friday",
-      "time": "19:25"
+      "time": "18:16"
     },
     {
       "key": "shacharit_1",
@@ -54,31 +40,31 @@
       "key": "sof_zman_shma",
       "name": "Sof Zman Kriat Shma",
       "day": "saturday",
-      "time": "09:25"
+      "time": "09:34"
     },
     {
       "key": "kids_learning_1",
       "name": "Kids Learning 1",
       "day": "saturday",
-      "time": "16:45"
+      "time": "16:10"
     },
     {
       "key": "kids_learning_2",
       "name": "Kids Learning 2",
       "day": "saturday",
-      "time": "17:15"
+      "time": "16:40"
     },
     {
       "key": "mincha_shabbat",
       "name": "Shabbat Mincha",
       "day": "saturday",
-      "time": "18:00"
+      "time": "17:25"
     },
     {
       "key": "maariv_motzei_shabbat",
       "name": "Maariv",
       "day": "saturday",
-      "time": "20:03"
+      "time": "18:52"
     }
   ],
   "weekdays": [
@@ -87,6 +73,14 @@
       "name": "Shacharit A",
       "days": [
         "Sunday",
+        "Monday"
+      ],
+      "time": "06:10"
+    },
+    {
+      "key": "shacharit_1",
+      "name": "Shacharit A",
+      "days": [
         "Tuesday",
         "Wednesday"
       ],
@@ -96,7 +90,6 @@
       "key": "shacharit_1",
       "name": "Shacharit A",
       "days": [
-        "Monday",
         "Thursday"
       ],
       "time": "06:15"
