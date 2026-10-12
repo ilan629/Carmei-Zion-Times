@@ -1,5 +1,7 @@
 {
+  "schema_version": 1,
   "shul": "Carmei Zion",
+  "timezone": "Asia/Jerusalem",
   "parasha": "שבת פרשת בראשית",
   "erev_date": "2026-10-09",
   "shabbat_date": "2026-10-10",
