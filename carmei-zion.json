@@ -2,23 +2,23 @@
   "schema_version": 1,
   "shul": "Carmei Zion",
   "timezone": "Asia/Jerusalem",
-  "parasha": "שבת פרשת בראשית",
-  "erev_date": "2026-10-09",
-  "shabbat_date": "2026-10-10",
-  "candle_lighting": "17:56",
-  "havdala": "18:52",
+  "parasha": "שבת פרשת נח",
+  "erev_date": "2026-10-16",
+  "shabbat_date": "2026-10-17",
+  "candle_lighting": "17:47",
+  "havdala": "18:44",
   "shabbat": [
     {
       "key": "mincha_kabbalat_shabbat",
       "name": "Mincha & Kabbalat Shabbat",
       "day": "friday",
-      "time": "18:01"
+      "time": "17:52"
     },
     {
       "key": "shkia",
       "name": "Shkia",
       "day": "friday",
-      "time": "18:16"
+      "time": "18:07"
     },
     {
       "key": "shacharit_1",
@@ -42,43 +42,34 @@
       "key": "sof_zman_shma",
       "name": "Sof Zman Kriat Shma",
       "day": "saturday",
-      "time": "09:34"
+      "time": "09:35"
     },
     {
       "key": "kids_learning_1",
       "name": "Kids Learning 1",
       "day": "saturday",
-      "time": "16:10"
+      "time": "16:00"
     },
     {
       "key": "kids_learning_2",
       "name": "Kids Learning 2",
       "day": "saturday",
-      "time": "16:40"
+      "time": "16:30"
     },
     {
       "key": "mincha_shabbat",
       "name": "Shabbat Mincha",
       "day": "saturday",
-      "time": "17:25"
+      "time": "17:15"
     },
     {
       "key": "maariv_motzei_shabbat",
       "name": "Maariv",
       "day": "saturday",
-      "time": "18:52"
+      "time": "18:44"
     }
   ],
   "weekdays": [
-    {
-      "key": "shacharit_1",
-      "name": "Shacharit A",
-      "days": [
-        "Sunday",
-        "Monday"
-      ],
-      "time": "06:10"
-    },
     {
       "key": "shacharit_1",
       "name": "Shacharit A",
@@ -92,6 +83,7 @@
       "key": "shacharit_1",
       "name": "Shacharit A",
       "days": [
+        "Monday",
         "Thursday"
       ],
       "time": "06:15"
@@ -109,10 +101,6 @@
       "name": "Shacharit B",
       "days": [
         "Sunday",
-        "Monday",
-        "Tuesday",
-        "Wednesday",
-        "Thursday",
         "Friday"
       ],
       "time": "08:15"
