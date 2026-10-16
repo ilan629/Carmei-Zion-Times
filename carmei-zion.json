@@ -74,6 +74,7 @@
       "key": "shacharit_1",
       "name": "Shacharit A",
       "days": [
+        "Sunday",
         "Tuesday",
         "Wednesday"
       ],
@@ -101,6 +102,10 @@
       "name": "Shacharit B",
       "days": [
         "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
         "Friday"
       ],
       "time": "08:15"
