@@ -102,10 +102,6 @@
       "name": "Shacharit B",
       "days": [
         "Sunday",
-        "Monday",
-        "Tuesday",
-        "Wednesday",
-        "Thursday",
         "Friday"
       ],
       "time": "08:15"
