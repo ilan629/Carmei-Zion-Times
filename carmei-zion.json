@@ -2,23 +2,23 @@
   "schema_version": 1,
   "shul": "Carmei Zion",
   "timezone": "Asia/Jerusalem",
-  "parasha": "שבת פרשת חיי שרה",
-  "erev_date": "2026-11-06",
-  "shabbat_date": "2026-11-07",
-  "candle_lighting": "16:27",
-  "havdala": "17:25",
+  "parasha": "שבת פרשת תולדות",
+  "erev_date": "2026-11-13",
+  "shabbat_date": "2026-11-14",
+  "candle_lighting": "16:23",
+  "havdala": "17:21",
   "shabbat": [
     {
       "key": "mincha_kabbalat_shabbat",
       "name": "Mincha & Kabbalat Shabbat",
       "day": "friday",
-      "time": "16:32"
+      "time": "16:28"
     },
     {
       "key": "shkia",
       "name": "Shkia",
       "day": "friday",
-      "time": "16:47"
+      "time": "16:43"
     },
     {
       "key": "shacharit_1",
@@ -36,7 +36,7 @@
       "key": "sof_zman_shma",
       "name": "Sof Zman Kriat Shma",
       "day": "saturday",
-      "time": "08:43"
+      "time": "08:46"
     },
     {
       "key": "shacharit_3",
@@ -66,7 +66,7 @@
       "key": "maariv_motzei_shabbat",
       "name": "Maariv",
       "day": "saturday",
-      "time": "17:25"
+      "time": "17:21"
     }
   ],
   "weekdays": [
@@ -74,18 +74,11 @@
       "key": "shacharit_1",
       "name": "Shacharit A",
       "days": [
-        "Sunday"
-      ],
-      "time": "06:20"
-    },
-    {
-      "key": "shacharit_1",
-      "name": "Shacharit A",
-      "days": [
+        "Sunday",
         "Tuesday",
         "Wednesday"
       ],
-      "time": "06:10"
+      "time": "06:20"
     },
     {
       "key": "shacharit_1",
