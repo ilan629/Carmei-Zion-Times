@@ -2,23 +2,23 @@
   "schema_version": 1,
   "shul": "Carmei Zion",
   "timezone": "Asia/Jerusalem",
-  "parasha": "שבת פרשת ויצא",
-  "erev_date": "2026-11-20",
-  "shabbat_date": "2026-11-21",
-  "candle_lighting": "16:19",
-  "havdala": "17:18",
+  "parasha": "שבת פרשת וישלח",
+  "erev_date": "2026-11-27",
+  "shabbat_date": "2026-11-28",
+  "candle_lighting": "16:17",
+  "havdala": "17:17",
   "shabbat": [
     {
       "key": "mincha_kabbalat_shabbat",
       "name": "Mincha & Kabbalat Shabbat",
       "day": "friday",
-      "time": "16:24"
+      "time": "16:22"
     },
     {
       "key": "shkia",
       "name": "Shkia",
       "day": "friday",
-      "time": "16:39"
+      "time": "16:37"
     },
     {
       "key": "shacharit_1",
@@ -36,7 +36,7 @@
       "key": "sof_zman_shma",
       "name": "Sof Zman Kriat Shma",
       "day": "saturday",
-      "time": "08:50"
+      "time": "08:54"
     },
     {
       "key": "shacharit_3",
@@ -66,7 +66,7 @@
       "key": "maariv_motzei_shabbat",
       "name": "Maariv",
       "day": "saturday",
-      "time": "17:18"
+      "time": "17:17"
     }
   ],
   "weekdays": [
@@ -118,7 +118,8 @@
         "Monday",
         "Tuesday",
         "Wednesday",
-        "Thursday"
+        "Thursday",
+        "Friday"
       ],
       "time": "13:30"
     },
